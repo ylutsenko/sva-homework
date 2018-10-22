@@ -1,0 +1,56 @@
+body {
+	font: 14px arial;
+	background-color: #c0c0c0;
+}
+
+.wrapper {
+    width: 800px;
+    background-color: white;  
+    align-items: center;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #33cc99;
+    word-spacing: 20px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+    margin: 10px;
+} 
+
+article {
+    padding: 30px 20px 30px 20px;
+}
+
+h2 {
+color: #009966;
+letter-spacing: -1px;
+padding: 10px;
+margin: 5px;
+}
+
+article p {
+    padding: 10px 0 10px 0;
+}
+
+figure {
+    border: 2px solid #cccccc;
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+blockquote {
+    font-size: 1.5em;
+    font-style: italic;
+    letter-spacing: -1px;
+}
+
+footer {
+    background-color: #33cc99;
+    border-top: 1px solid #000000;
+    padding: 10px;
+}
