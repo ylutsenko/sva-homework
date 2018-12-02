@@ -14,6 +14,7 @@ body {
 }
 
 .wrapper {
+  min-height: 100vh;
   max-width: 1000px;
   margin: 0 auto;
   display: grid;
@@ -36,7 +37,8 @@ body {
 
 .global-nav {
   background-color: #DAC7A6;
-  grid-column: 1 / -1;
+  grid-column: 1 / -1
+  ;
   
 }
 
